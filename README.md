@@ -2,6 +2,7 @@
 📌 Project Overview
 
 This project presents an interactive Power BI dashboard for analyzing US sales performance across multiple dimensions such as segments, categories, sub-categories, regions, and states.
+
 The goal is to help stakeholders understand sales trends, profitability, and regional performance to support data-driven decision-making.
 
 🧩 Dashboard Highlights
